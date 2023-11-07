@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">TeacherFinal</string>
+    <string name="vit_logo">VIT Logo</string>
+    <string name="teacher_login">Teacher Login</string>
+    <string name="email">Email-Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_quiz">Create Quiz</string>
+    <string name="mcq">MCQ</string>
+    <string name="question">Question</string>
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="option4">Option 4</string>
+    <string name="answer">Answer</string>
+    <string name="set_question">Set Question</string>
+    <string name="next_question">Next Question</string>
+    <string name="done">Done</string>
+    <string name="log_out">Log Out</string>
+    <string name="quiz_title">Quiz Title</string>
+    <string name="enter">Enter</string>
+    <string name="trueFalse">True/False</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="deploy_quiz">Deploy Quiz</string>
+    <string name="title">Title :</string>
+    <string name="room_code">Room Code :</string>
+    <string name="statistics">Statistics</string>
+    <string name="name">Name</string>
+    <string name="quiz">Quiz :</string>
+    <string name="quiz_list">Quiz List</string>
+    <string name="reset_password">Reset Password</string>
+</resources>
